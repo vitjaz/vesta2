@@ -15,7 +15,7 @@ public final class R {
         public static final int freezesAnimation = 0x7f0300e6;
         public static final int gifSource = 0x7f0300e8;
         public static final int isOpaque = 0x7f030108;
-        public static final int loopCount = 0x7f030166;
+        public static final int loopCount = 0x7f030175;
     }
     public static final class styleable {
         private styleable() {}
@@ -23,7 +23,7 @@ public final class R {
         public static final int[] GifTextureView = { 0x7f0300e8, 0x7f030108 };
         public static final int GifTextureView_gifSource = 0;
         public static final int GifTextureView_isOpaque = 1;
-        public static final int[] GifView = { 0x7f0300e6, 0x7f030166 };
+        public static final int[] GifView = { 0x7f0300e6, 0x7f030175 };
         public static final int GifView_freezesAnimation = 0;
         public static final int GifView_loopCount = 1;
     }

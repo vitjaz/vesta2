@@ -3,4 +3,44 @@
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="category_0">Арматура для радиаторов</string>
+    <string name="category_1">Баки мембранные</string>
+    <string name="category_2">Ванны</string>
+    <string name="category_211">Вентиляция</string>
+    <string name="category_3">Водозапорная арматура</string>
+    <string name="category_4">Водонагреватели</string>
+    <string name="category_5">Водоподготовка</string>
+    <string name="category_6">Водосчетчики</string>
+    <string name="category_7">Газовое оборудование</string>
+    <!--<string name="category_8">Ванны</string> непонятно почему у весты это именно так-->
+    <string name="category_9">Душевые кабины</string>
+    <string name="category_10">Емкости для воды и топлива</string>
+    <string name="category_11">Инструменты</string>
+    <string name="category_12">Канализационные системы</string>
+    <string name="category_13">Коллекторы и аксессуары</string>
+    <string name="category_14">Контрольно-измерительные приборы</string>
+    <string name="category_15">Котельное оборудование</string>
+    <string name="category_16">Крепеж</string>
+    <string name="category_17">Насосное оборудование</string>
+    <string name="category_18">Подводка гибкая</string>
+    <string name="category_19">Полотенцесушители</string>
+    <string name="category_20">Регулирующая арматура</string>
+    <string name="category_21">Радиаторы отопления</string>
+    <string name="category_22">Расходные материалы</string>
+    <string name="category_23">Резьбовые фитинги</string>
+    <string name="category_24">Комплекты стальных труб</string>
+    <string name="category_25">Санфаянс и другое</string>
+    <string name="category_26">Системы контроля Нептун</string>
+    <string name="category_27">Системы теплых полов</string>
+    <string name="category_28">Смесители и другое</string>
+    <string name="category_29">Теплоизоляция</string>
+    <string name="category_30">Теплосчетчики</string>
+    <string name="category_32">Трубы и фитинги полипропиленовые</string>
+    <string name="category_33">Трубы и фитинги металлополимерные</string>
+    <string name="category_34">Трубы и фитинги пластиковые</string>
+    <string name="category_35">Трубы и фитинги медные</string>
+    <string name="category_36">Трубы и фитинги нержавеющие</string>
+    <string name="category_37">Фильтры и другое</string>
+    <string name="category_38">Электроборудование</string>
 </resources>

@@ -28,6 +28,7 @@ dependencies {
     implementation 'com.android.support:support-v4:28.0.0'
     implementation 'com.github.tbruyelle:rxpermissions:0.10.2'
     implementation 'com.github.Shashank02051997:FancyGifDialog-Android:1.2'
+    implementation 'com.lucasurbas:listitemview:1.1.1'
     implementation 'com.yarolegovich:lovely-dialog:1.1.0'
     implementation 'com.crowdfire.cfalertdialog:cfalertdialog:1.1.0'
     implementation 'com.android.support:design:28.0.0'
