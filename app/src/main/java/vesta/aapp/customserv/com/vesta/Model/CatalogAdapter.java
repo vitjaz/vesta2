@@ -42,7 +42,8 @@ public class CatalogAdapter extends RecyclerView.Adapter<CatalogAdapter.ExampleV
     public void onBindViewHolder(@NonNull ExampleViewHolder holder, int position) {
         CatalogItem currentItem = CatalogList.get(position);
 
-        holder.mImageView.setImageResource(currentItem.getImageResource());
+
+        holder.mImageView.setImageResource(currentItem.getImageResourse());
         holder.mTextView1.setText(currentItem.getText1());
     }
 

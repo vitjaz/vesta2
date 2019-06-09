@@ -1,17 +1,19 @@
 package vesta.aapp.customserv.com.vesta.Model;
 
+import android.graphics.drawable.Drawable;
+
 public class CatalogItem {
 
-    private int mImageResource;
+    private int mImageResourse;
     private String mText1;
 
-    public CatalogItem(int imageResource, String text1) {
-        mImageResource = imageResource;
+    public CatalogItem(int ImageResourse, String text1) {
+        mImageResourse = ImageResourse;
         mText1 = text1;
     }
 
-    public int getImageResource() {
-        return mImageResource;
+    public int getImageResourse() {
+        return mImageResourse;
     }
 
     public String getText1() {
