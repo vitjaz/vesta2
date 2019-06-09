@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Главная" />
+        <item
+            android:id="@+id/nav_view_catalog"
+            android:icon="@drawable/ic_view_catalog"
+            android:title="Каталог товаров" />
+        <item
+            android:id="@+id/nav_sales"
+            android:icon="@drawable/ic_sales"
+            android:title="Акции" />
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/ic_cart"
+            android:title="Корзина" />
+        <item
+            android:id="@+id/nav_order"
+            android:icon="@drawable/ic_my_order"
+            android:title="Мои заказы" />
+
+    </group>
+
+    <item android:title="Связаться с нами">
+        <menu>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_send"
+                android:title="Сообщить об ошибке" />
+        </menu>
+    </item>
+</menu>
