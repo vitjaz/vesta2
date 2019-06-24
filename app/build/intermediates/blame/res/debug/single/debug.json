@@ -8,12 +8,16 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_21_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_21_150.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\anim_dialog_present_top.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\cfalertdialog-1.1.0.aar\\9a877aefd234e84bc21435d7e9366065\\res\\anim\\dialog_present_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_list_divider_material.xml.flat",
@@ -34,10 +38,6 @@
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
-    },
-    {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_2.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_2.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
@@ -92,6 +92,14 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_30_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_30_150.png"
+    },
+    {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_12_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_12_150.png"
+    },
+    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_bottom_nav_colored_item_tint.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\e34547ecdc66361655e48e371dc70afb\\res\\color\\mtrl_bottom_nav_colored_item_tint.xml"
     },
@@ -128,20 +136,20 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
-        "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
-    },
-    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\e34547ecdc66361655e48e371dc70afb\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
@@ -180,16 +188,16 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\8b82d8feae103ce3d35b49ddab43e338\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
-        "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
-        "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -224,12 +232,12 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_standard_vertical.xml.flat",
-        "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\lovely-dialog-1.1.0.aar\\88150845fd3d0fd97ecb15c7c1a16ad3\\res\\layout\\dialog_standard_vertical.xml"
-    },
-    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_standard_vertical.xml.flat",
+        "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\lovely-dialog-1.1.0.aar\\88150845fd3d0fd97ecb15c7c1a16ad3\\res\\layout\\dialog_standard_vertical.xml"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
@@ -240,12 +248,12 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7c1ed76eac0147f7027473c5932c5c0e\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
@@ -260,12 +268,12 @@
         "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_simple_text.xml.flat",
@@ -278,10 +286,6 @@
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7c1ed76eac0147f7027473c5932c5c0e\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_38.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_38.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -298,10 +302,6 @@
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vd_radiobutton_unchecked.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\listitemview-1.1.1.aar\\607c6fc38f638a719d6f744ff1d78642\\res\\drawable\\vd_radiobutton_unchecked.xml"
-    },
-    {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_4.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_4.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\anim_interpolator_deceleration_3.xml.flat",
@@ -412,20 +412,12 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\8b82d8feae103ce3d35b49ddab43e338\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_27.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_27.png"
-    },
-    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\859e00aec45e965bfb76964257d258db\\res\\layout\\notification_template_big_media_custom.xml"
-    },
-    {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_20.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_20.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_dark.xml.flat",
@@ -436,8 +428,16 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\8b82d8feae103ce3d35b49ddab43e338\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
     },
     {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_9_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_9_150.png"
+    },
+    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\anim_interpolator_overshoot_1_2.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\cfalertdialog-1.1.0.aar\\9a877aefd234e84bc21435d7e9366065\\res\\anim\\interpolator_overshoot_1_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_20_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_20_150.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -484,10 +484,6 @@
         "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_6.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_6.png"
-    },
-    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
@@ -504,16 +500,16 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_6_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_6_150.png"
+    },
+    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_tint.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\8b82d8feae103ce3d35b49ddab43e338\\res\\color\\common_google_signin_btn_tint.xml"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_fab_ripple_color.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\e34547ecdc66361655e48e371dc70afb\\res\\color\\mtrl_fab_ripple_color.xml"
-    },
-    {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_13.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_13.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_in.xml.flat",
@@ -588,8 +584,8 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_0.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_0.png"
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_7_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_7_150.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -712,10 +708,6 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_24.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_24.png"
-    },
-    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avd_checkbox_checked_to_unchecked.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\listitemview-1.1.1.aar\\607c6fc38f638a719d6f744ff1d78642\\res\\drawable\\avd_checkbox_checked_to_unchecked.xml"
     },
@@ -756,10 +748,6 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\cfalertdialog-1.1.0.aar\\9a877aefd234e84bc21435d7e9366065\\res\\drawable\\cfdialog_buttons_spacing.xml"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_23.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_23.png"
-    },
-    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
@@ -792,6 +780,10 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\lovely-dialog-1.1.0.aar\\88150845fd3d0fd97ecb15c7c1a16ad3\\res\\layout\\dialog_custom.xml"
     },
     {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_38_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_38_150.png"
+    },
+    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
@@ -808,6 +800,10 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\e34547ecdc66361655e48e371dc70afb\\res\\drawable\\design_snackbar_background.xml"
     },
     {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_23_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_23_150.png"
+    },
+    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
@@ -820,8 +816,8 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\listitemview-1.1.1.aar\\607c6fc38f638a719d6f744ff1d78642\\res\\drawable\\vd_checkbox_unchecked.xml"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_22.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_22.png"
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_28_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_28_150.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -844,6 +840,10 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7c1ed76eac0147f7027473c5932c5c0e\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_29_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_29_150.png"
+    },
+    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
@@ -862,6 +862,10 @@
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_password_eye.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\e34547ecdc66361655e48e371dc70afb\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_37_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_37_150.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
@@ -892,8 +896,8 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\e34547ecdc66361655e48e371dc70afb\\res\\interpolator-v21\\mtrl_fast_out_linear_in.xml"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_25.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_25.png"
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_14_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_14_150.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
@@ -906,6 +910,10 @@
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_15_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_15_150.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -950,6 +958,10 @@
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\8b82d8feae103ce3d35b49ddab43e338\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_13_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_13_150.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
@@ -1024,8 +1036,16 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\cfalertdialog-1.1.0.aar\\9a877aefd234e84bc21435d7e9366065\\res\\anim\\dialog_present_center.xml"
     },
     {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_22_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_22_150.png"
+    },
+    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\anim_dialog_dismiss_center.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\cfalertdialog-1.1.0.aar\\9a877aefd234e84bc21435d7e9366065\\res\\anim\\dialog_dismiss_center.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_27_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_27_150.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility.png.flat",
@@ -1080,10 +1100,6 @@
         "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_37.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_37.png"
-    },
-    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_enter.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\anim\\abc_tooltip_enter.xml"
     },
@@ -1112,8 +1128,16 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_11.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_11.png"
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_2_1_1_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_2_1_1_150.png"
+    },
+    {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_11_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_11_150.png"
+    },
+    {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_24_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_24_150.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
@@ -1148,16 +1172,16 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_catalog.xml.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\layout\\item_catalog.xml"
+    },
+    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_edit_text_material.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-v21\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_catalog.xml.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\layout\\item_catalog.xml"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1196,6 +1220,10 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\lovely-dialog-1.1.0.aar\\88150845fd3d0fd97ecb15c7c1a16ad3\\res\\layout\\item_footer_confirm.xml"
     },
     {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_25_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_25_150.png"
+    },
+    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
@@ -1212,8 +1240,8 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\listitemview-1.1.1.aar\\607c6fc38f638a719d6f744ff1d78642\\res\\drawable\\avd_checkbox_unchecked_to_checked.xml"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_32_36.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_32_36.png"
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_10_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_10_150.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
@@ -1292,6 +1320,10 @@
         "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_26_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_26_150.png"
+    },
+    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
@@ -1348,10 +1380,6 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_10.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_10.png"
-    },
-    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
@@ -1388,8 +1416,8 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\e34547ecdc66361655e48e371dc70afb\\res\\interpolator-v21\\mtrl_linear_out_slow_in.xml"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_3.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_3.png"
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_17_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_17_150.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
@@ -1402,10 +1430,6 @@
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\8b82d8feae103ce3d35b49ddab43e338\\res\\drawable\\common_google_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_2_1_1.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_2_1_1.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sales.xml.flat",
@@ -1496,8 +1520,16 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-v21\\abc_dialog_material_background.xml"
     },
     {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_16_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_16_150.png"
+    },
+    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\8b82d8feae103ce3d35b49ddab43e338\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_2_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_2_150.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
@@ -1522,10 +1554,6 @@
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_12.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_12.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
@@ -1564,8 +1592,8 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_1.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_1.png"
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_3_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_3_150.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_design_tint_password_toggle.xml.flat",
@@ -1574,10 +1602,6 @@
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7c1ed76eac0147f7027473c5932c5c0e\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_28.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_28.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
@@ -1616,6 +1640,10 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_18_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_18_150.png"
+    },
+    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_hide_password.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\e34547ecdc66361655e48e371dc70afb\\res\\drawable-v21\\avd_hide_password.xml"
     },
@@ -1636,10 +1664,6 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_5.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_5.png"
-    },
-    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
@@ -1652,12 +1676,12 @@
         "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\8b82d8feae103ce3d35b49ddab43e338\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_4_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_4_150.png"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_19.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_19.png"
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\8b82d8feae103ce3d35b49ddab43e338\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gif1.gif.flat",
@@ -1740,10 +1764,6 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\e34547ecdc66361655e48e371dc70afb\\res\\animator\\design_fab_show_motion_spec.xml"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_26.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_26.png"
-    },
-    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
@@ -1812,10 +1832,6 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_14.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_14.png"
-    },
-    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\anim_dialog_present_bottom.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\cfalertdialog-1.1.0.aar\\9a877aefd234e84bc21435d7e9366065\\res\\anim\\dialog_present_bottom.xml"
     },
@@ -1834,6 +1850,10 @@
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.0.1.aar\\8b82d8feae103ce3d35b49ddab43e338\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_19_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_19_150.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
@@ -1888,12 +1908,16 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_21.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_21.png"
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_0_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_0_150.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7c1ed76eac0147f7027473c5932c5c0e\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_5_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_5_150.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -1906,10 +1930,6 @@
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\layout\\abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_16.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_16.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -1930,10 +1950,6 @@
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_view_catalog.xml.flat",
         "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\ic_view_catalog.xml"
-    },
-    {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_9.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_9.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_light.xml.flat",
@@ -1968,10 +1984,6 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_17.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_17.png"
-    },
-    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_show_motion_spec.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\e34547ecdc66361655e48e371dc70afb\\res\\animator\\mtrl_fab_show_motion_spec.xml"
     },
@@ -2000,10 +2012,6 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_18.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_18.png"
-    },
-    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\e34547ecdc66361655e48e371dc70afb\\res\\layout\\design_navigation_menu.xml"
     },
@@ -2026,10 +2034,6 @@
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
         "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\logo.png"
-    },
-    {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_30.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_30.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_chip_state_list_anim.xml.flat",
@@ -2100,10 +2104,6 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_7.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_7.png"
-    },
-    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_view_catalog.xml.flat",
         "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\layout\\fragment_view_catalog.xml"
     },
@@ -2144,10 +2144,6 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_15.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_15.png"
-    },
-    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\layout_mtrl_layout_snackbar_include.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\e34547ecdc66361655e48e371dc70afb\\res\\layout\\mtrl_layout_snackbar_include.xml"
     },
@@ -2184,6 +2180,10 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cat_1.xml.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\ic_cat_1.xml"
+    },
+    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
@@ -2214,6 +2214,10 @@
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_32_36_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_32_36_150.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -2300,6 +2304,10 @@
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_1_150.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_1_150.png"
+    },
+    {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\layout\\abc_action_menu_layout.xml"
     },
@@ -2330,10 +2338,6 @@
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\7c1ed76eac0147f7027473c5932c5c0e\\res\\layout-v21\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_29.png.flat",
-        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\cat_29.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\anim_interpolator_overshoot_1.xml.flat",
@@ -2394,6 +2398,10 @@
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_dark.xml.flat",
         "source": "C:\\Users\\PC-01\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\335803b8beab223130efe13b01d83162\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.png.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\drawable\\bg.png"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
@@ -2466,6 +2474,10 @@
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header.xml.flat",
         "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\layout_dashboard_catalog.xml.flat",
+        "source": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\src\\main\\res\\layout\\dashboard_catalog.xml"
     },
     {
         "merged": "C:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_text_material.xml.flat",

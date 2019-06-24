@@ -28,8 +28,9 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputName" value="ic_send" />
-                            <entry key="sourceFile" value="C:\Users\PC-01" />
+                            <entry key="assetSourceType" value="FILE" />
+                            <entry key="outputName" value="ic_cat_1" />
+                            <entry key="sourceFile" value="C:\Users\PC-01\Desktop\новые иконки веста\svg\cat_1.svg" />
                           </map>
                         </option>
                       </PersistentState>

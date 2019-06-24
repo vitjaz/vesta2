@@ -5,9 +5,10 @@ INJECTED from C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\src\main\Androi
 INJECTED from C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\src\main\AndroidManifest.xml:2:1-26:12
 INJECTED from C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\src\main\AndroidManifest.xml:2:1-26:12
 MERGED from [com.github.Shashank02051997:FancyGifDialog-Android:1.2] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\FancyGifDialog-Android-1.2.aar\cf1266203cc44e4fc97061606a3fe9ac\AndroidManifest.xml:2:1-11:12
-MERGED from [com.yarolegovich:lovely-dialog:1.1.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\lovely-dialog-1.1.0.aar\88150845fd3d0fd97ecb15c7c1a16ad3\AndroidManifest.xml:2:1-12:12
 MERGED from [com.crowdfire.cfalertdialog:cfalertdialog:1.1.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\cfalertdialog-1.1.0.aar\9a877aefd234e84bc21435d7e9366065\AndroidManifest.xml:2:1-17:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\e34547ecdc66361655e48e371dc70afb\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\abe23ea4049208559eafd1f00482b73d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.yarolegovich:lovely-dialog:1.1.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\lovely-dialog-1.1.0.aar\88150845fd3d0fd97ecb15c7c1a16ad3\AndroidManifest.xml:2:1-12:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\335803b8beab223130efe13b01d83162\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\06f170da6f3bf5142d368b6352d742df\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\8b82d8feae103ce3d35b49ddab43e338\AndroidManifest.xml:17:1-29:12
@@ -46,7 +47,6 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\PC-01\.gradle\cache
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f3afde95800b7ec3e271063d6110bc6e\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f1df74ffcfc244adb78012568ca73b52\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7671868eb1d78f523020737596ef626d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\abe23ea4049208559eafd1f00482b73d\AndroidManifest.xml:17:1-22:12
 MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.10.aar\d15a1ddfa2b467236e0ca9c9fed835cd\AndroidManifest.xml:2:1-11:12
 INJECTED from C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\src\main\AndroidManifest.xml:2:1-26:12
 INJECTED from C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\src\main\AndroidManifest.xml:2:1-26:12
@@ -139,12 +139,14 @@ INJECTED from C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\src\main\Androi
 INJECTED from C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\src\main\AndroidManifest.xml
 MERGED from [com.github.Shashank02051997:FancyGifDialog-Android:1.2] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\FancyGifDialog-Android-1.2.aar\cf1266203cc44e4fc97061606a3fe9ac\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.Shashank02051997:FancyGifDialog-Android:1.2] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\FancyGifDialog-Android-1.2.aar\cf1266203cc44e4fc97061606a3fe9ac\AndroidManifest.xml:7:5-9:41
-MERGED from [com.yarolegovich:lovely-dialog:1.1.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\lovely-dialog-1.1.0.aar\88150845fd3d0fd97ecb15c7c1a16ad3\AndroidManifest.xml:8:5-10:41
-MERGED from [com.yarolegovich:lovely-dialog:1.1.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\lovely-dialog-1.1.0.aar\88150845fd3d0fd97ecb15c7c1a16ad3\AndroidManifest.xml:8:5-10:41
 MERGED from [com.crowdfire.cfalertdialog:cfalertdialog:1.1.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\cfalertdialog-1.1.0.aar\9a877aefd234e84bc21435d7e9366065\AndroidManifest.xml:7:5-9:41
 MERGED from [com.crowdfire.cfalertdialog:cfalertdialog:1.1.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\cfalertdialog-1.1.0.aar\9a877aefd234e84bc21435d7e9366065\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:design:28.0.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\e34547ecdc66361655e48e371dc70afb\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:28.0.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\e34547ecdc66361655e48e371dc70afb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\abe23ea4049208559eafd1f00482b73d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\abe23ea4049208559eafd1f00482b73d\AndroidManifest.xml:20:5-44
+MERGED from [com.yarolegovich:lovely-dialog:1.1.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\lovely-dialog-1.1.0.aar\88150845fd3d0fd97ecb15c7c1a16ad3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.yarolegovich:lovely-dialog:1.1.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\lovely-dialog-1.1.0.aar\88150845fd3d0fd97ecb15c7c1a16ad3\AndroidManifest.xml:8:5-10:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\335803b8beab223130efe13b01d83162\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\335803b8beab223130efe13b01d83162\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\06f170da6f3bf5142d368b6352d742df\AndroidManifest.xml:5:5-44
@@ -221,8 +223,6 @@ MERGED from [android.arch.core:runtime:1.1.1] C:\Users\PC-01\.gradle\caches\tran
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f1df74ffcfc244adb78012568ca73b52\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7671868eb1d78f523020737596ef626d\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\7671868eb1d78f523020737596ef626d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\abe23ea4049208559eafd1f00482b73d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\abe23ea4049208559eafd1f00482b73d\AndroidManifest.xml:20:5-44
 MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.10.aar\d15a1ddfa2b467236e0ca9c9fed835cd\AndroidManifest.xml:7:5-9:41
 MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.10] C:\Users\PC-01\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.10.aar\d15a1ddfa2b467236e0ca9c9fed835cd\AndroidManifest.xml:7:5-9:41
 INJECTED from C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\src\main\AndroidManifest.xml

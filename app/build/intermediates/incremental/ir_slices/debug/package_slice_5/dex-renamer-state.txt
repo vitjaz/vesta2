@@ -1,4 +1,4 @@
-#Sun Jun 09 20:40:07 MSK 2019
+#Mon Jun 24 22:32:07 MSK 2019
 base.0=C\:\\Users\\PC-01\\Desktop\\FlipTable-master\\vesta2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
 path.0=classes.dex
 renamed.0=classes.dex
