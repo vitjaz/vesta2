@@ -101,18 +101,18 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                         // Create Alert using Builder
                         new CFAlertDialog.Builder(this)
                                 .setDialogStyle(CFAlertDialog.CFAlertStyle.BOTTOM_SHEET)
-                                .setTitle("Выберете город")
-                                .setMessage("Магазин сантехники VESTA-TRADING работает только в этих городах")
+                                .setTitle("Выберете регион")
+                                .setMessage("Магазин сантехники VESTA-TRADING работает только в этих регионах")
                                 .setTextGravity(Gravity.CENTER_HORIZONTAL)
                                 .setCancelable(false)
                                 .addButton("Москва", -1, -1, CFAlertDialog.CFAlertActionStyle.DEFAULT, CFAlertDialog.CFAlertActionAlignment.JUSTIFIED, (dialog, which) -> {
-                                    Toast.makeText(MainActivity.this, "Вы выбрали город Москву", Toast.LENGTH_SHORT).show();
+                                    Toast.makeText(MainActivity.this, "Вы выбрали регион Москвы", Toast.LENGTH_SHORT).show();
                                     dialog.dismiss();
                                 }).addButton("Санкт-Петербург", -1, -1, CFAlertDialog.CFAlertActionStyle.DEFAULT, CFAlertDialog.CFAlertActionAlignment.JUSTIFIED, (dialog, which) -> {
-                                    Toast.makeText(MainActivity.this, "Вы выбрали город Санкт-Петербург", Toast.LENGTH_SHORT).show();
+                                    Toast.makeText(MainActivity.this, "Вы выбрали регион Санкт-Петербурга", Toast.LENGTH_SHORT).show();
                                     dialog.dismiss();
                                 }).addButton("Самара", -1, -1, CFAlertDialog.CFAlertActionStyle.DEFAULT, CFAlertDialog.CFAlertActionAlignment.JUSTIFIED, (dialog, which) -> {
-                                    Toast.makeText(MainActivity.this, "Вы выбрали город Самару", Toast.LENGTH_SHORT).show();
+                                    Toast.makeText(MainActivity.this, "Вы выбрали регион Самары", Toast.LENGTH_SHORT).show();
                                     dialog.dismiss();}).show();
                     }
                 });
@@ -128,20 +128,26 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             Geocoder geocoder = new Geocoder(this);
             List<Address> addresses = null;
             addresses = geocoder.getFromLocation(location.getLatitude(), location.getLongitude(), 1);
-            String city = addresses.get(0).getLocality();
-            Toast.makeText(this, "Город: " + city, Toast.LENGTH_SHORT).show();
-            if(!city.equals("Москва") && !city.equals("Санкт-Петербург") && !city.equals("Самара"))
-            {
-                new CFAlertDialog.Builder(this)
-                        .setDialogStyle(CFAlertDialog.CFAlertStyle.BOTTOM_SHEET)
-                        .setTitle("Внимание")
-                        .setMessage("Вы находитесь в месте, где нет магазинов компании VESTA-TRADING. Они есть в городах: Москва, Санкт-Петербург, Самара. Пожалуйста, учтите это при заказе.")
-                        .setTextGravity(Gravity.CENTER_HORIZONTAL)
-                        .setCancelable(false)
-                        .addButton("Понятно", -1, -1, CFAlertDialog.CFAlertActionStyle.POSITIVE, CFAlertDialog.CFAlertActionAlignment.JUSTIFIED, (dialog, which) -> {
-                            dialog.dismiss();
-                        }).show();
-            }
+            String city = addresses.get(0).getLocality(); //получаем город,где находится юзер
+
+            //диалог для проверки правильности автоматической геолокации
+
+            new CFAlertDialog.Builder(this)
+                    .setDialogStyle(CFAlertDialog.CFAlertStyle.BOTTOM_SHEET)
+                    .setTitle("Уточните")
+                    .setMessage("Вы находитесь в " + city + "?")
+                    .setTextGravity(Gravity.CENTER_HORIZONTAL)
+                    .setCancelable(false)
+                    .addButton("Да", -1, -1, CFAlertDialog.CFAlertActionStyle.POSITIVE, CFAlertDialog.CFAlertActionAlignment.JUSTIFIED, (dialog, which) -> {
+                        checkCity(city); //вызов метода для проверки правильности геолокации
+                        dialog.dismiss();
+                    }).addButton("Нет", -1, -1, CFAlertDialog.CFAlertActionStyle.NEGATIVE, CFAlertDialog.CFAlertActionAlignment.JUSTIFIED, (dialog, which) -> {
+                        chooseCity(); //вызов метода для ручного выбора
+                        dialog.dismiss();
+            }).show();
+
+            //Toast.makeText(this, "Город: " + city, Toast.LENGTH_SHORT).show();
+
 
         }catch(IOException e){e.printStackTrace(); Toast.makeText(this, "Нет доступа к местоположению", Toast.LENGTH_SHORT).show();}
 
@@ -150,6 +156,53 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
     }
 
+
+    //метод для ручного выбора региона
+    private void chooseCity() {
+
+        // Create Alert using Builder
+        new CFAlertDialog.Builder(this)
+                .setDialogStyle(CFAlertDialog.CFAlertStyle.BOTTOM_SHEET)
+                .setTitle("Выберете регион")
+                .setMessage("Магазин сантехники VESTA-TRADING работает только в этих регионах")
+                .setTextGravity(Gravity.CENTER_HORIZONTAL)
+                .setCancelable(false)
+                .addButton("Москва", -1, -1, CFAlertDialog.CFAlertActionStyle.DEFAULT, CFAlertDialog.CFAlertActionAlignment.JUSTIFIED, (dialog, which) -> {
+                    Toast.makeText(MainActivity.this, "Вы выбрали регион Москвы", Toast.LENGTH_SHORT).show();
+                    dialog.dismiss();
+                }).addButton("Санкт-Петербург", -1, -1, CFAlertDialog.CFAlertActionStyle.DEFAULT, CFAlertDialog.CFAlertActionAlignment.JUSTIFIED, (dialog, which) -> {
+            Toast.makeText(MainActivity.this, "Вы выбрали регион Санкт-Петербурга", Toast.LENGTH_SHORT).show();
+            dialog.dismiss();
+        }).addButton("Самара", -1, -1, CFAlertDialog.CFAlertActionStyle.DEFAULT, CFAlertDialog.CFAlertActionAlignment.JUSTIFIED, (dialog, which) -> {
+            Toast.makeText(MainActivity.this, "Вы выбрали регион Самары", Toast.LENGTH_SHORT).show();
+            dialog.dismiss();}).show();
+
+
+    }
+
+
+    //метод для проверки правильности автоматической геолокации
+    private void checkCity(String city) {
+        if(!city.equals("Красное Село") &&
+                !city.equals("Санкт-Петербург") &&
+                !city.equals("Самара") &&
+                !city.equals("Всеволожск") &&
+                !city.equals("Подольск") &&
+                !city.equals("Щербинка") &&
+                !city.equals("Люберцы") &&
+                !city.equals("Мытищи"))
+        {
+            new CFAlertDialog.Builder(this)
+                    .setDialogStyle(CFAlertDialog.CFAlertStyle.BOTTOM_SHEET)
+                    .setTitle("Внимание")
+                    .setMessage("Вы находитесь в месте, где нет магазинов компании VESTA-TRADING. Они есть в городах: Всеволожск, Люберцы, Мытищи, Подольск, Санкт-Петербург, Самара. Пожалуйста, учтите это при заказе.")
+                    .setTextGravity(Gravity.CENTER_HORIZONTAL)
+                    .setCancelable(false)
+                    .addButton("Понятно", -1, -1, CFAlertDialog.CFAlertActionStyle.POSITIVE, CFAlertDialog.CFAlertActionAlignment.JUSTIFIED, (dialog, which) -> {
+                        dialog.dismiss();
+                    }).show();
+        }
+    }
 
 
     @Override

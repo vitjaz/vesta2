@@ -6,7 +6,7 @@
     density="420dpi"
     format="10"
     plugin-version="3.2.1"
-    timestamp="1561407545248"
+    timestamp="1561811803681"
     token="8492592488809374397"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -23,49 +23,45 @@
         name="verifier"
         duration="0" />
 
-    <artifact
-        location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
-        type="SPLIT" />
-
     <build
         build-mode="FULL"
-        timestamp="1561404709909"
+        timestamp="1561809308047"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
             location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
+            location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
             location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
@@ -73,11 +69,16 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1561407545248"
+        ir-eligibility="METHOD_DELETED"
+        timestamp="1561811039613"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+            location="C:\Users\PC-01\Desktop\FlipTable-master\vesta2\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
     </build>
+    <build
+        build-mode="COLD"
+        timestamp="1561811803681"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
