@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.lucasurbas:listitemview:1.1.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/listitemview-1.1.1.aar/3c84afaa906db59846ec67ba3a2fea4e/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/listitemview-1.1.1.aar/3c84afaa906db59846ec67ba3a2fea4e/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/listitemview-1.1.1.aar/3c84afaa906db59846ec67ba3a2fea4e/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lucasurbas/listitemview/1.1.1/9a125df91c0e078edf65c88f25e8b71dce0baa48/listitemview-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

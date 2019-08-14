@@ -1,6 +1,7 @@
 package vesta.aapp.customserv.com.vesta;
 
 import android.Manifest;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.location.Address;
 import android.location.Geocoder;
@@ -9,6 +10,7 @@ import android.support.annotation.NonNull;
 import android.support.design.widget.NavigationView;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.view.GravityCompat;
+import android.support.v4.view.ViewPager;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
@@ -16,7 +18,6 @@ import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 import android.view.Gravity;
 import android.view.MenuItem;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import com.crowdfire.cfalertdialog.CFAlertDialog;
@@ -26,9 +27,9 @@ import com.google.android.gms.tasks.OnSuccessListener;
 import com.tbruyelle.rxpermissions2.RxPermissions;
 
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.List;
 
+import vesta.aapp.customserv.com.vesta.Adapters.CustomSwipeAdapter;
 import vesta.aapp.customserv.com.vesta.Fragments.CartFragment;
 import vesta.aapp.customserv.com.vesta.Fragments.HomeFragment;
 import vesta.aapp.customserv.com.vesta.Fragments.MyOrderFragment;
@@ -40,6 +41,8 @@ import vesta.aapp.customserv.com.vesta.Fragments.ViewCatalogFragment;
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
     private DrawerLayout drawerLayout;
+    ViewPager viewPager;
+    CustomSwipeAdapter adapter;
     private FusedLocationProviderClient fusedLocationClient;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -55,16 +58,22 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         NavigationView navigationView = findViewById(R.id.nav_view);
         navigationView.setNavigationItemSelectedListener(this);
 
+        //viewPager = findViewById(R.id.ViewPager);
+        //adapter = new CustomSwipeAdapter(this);
+        //viewPager.setAdapter(adapter);
+
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(this, drawerLayout, toolbar,
                 R.string.navigation_drawer_open, R.string.navigation_drawer_close);
         drawerLayout.addDrawerListener(toggle);
         toggle.syncState();
 
-        if (savedInstanceState == null) {
-            getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,
-                    new HomeFragment()).commit();
-            navigationView.setCheckedItem(R.id.nav_home);
-        }
+       // if (savedInstanceState == null) {
+          //  startActivity(new Intent(MainActivity.this, HomeFragment.class));
+         //   navigationView.setCheckedItem(R.id.nav_home);
+        //}
+
+        getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container,
+                new HomeFragment()).commit();
 
         RxPermissions rxPermissions = new RxPermissions(this);
         rxPermissions

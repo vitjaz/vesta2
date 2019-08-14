@@ -5,7 +5,7 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="25"
+        android:minSdkVersion="23"
         android:targetSdkVersion="28" />
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -22,6 +22,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="vesta.aapp.customserv.com.vesta.Activity.ProductActivity" />
+        <activity android:name="vesta.aapp.customserv.com.vesta.Activity.DetailProduct" />
         <activity
             android:name="vesta.aapp.customserv.com.vesta.MainActivity"
             android:theme="@style/AppTheme.NoActionBar" >
@@ -39,6 +41,11 @@
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
+
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="vesta.aapp.customserv.com.vesta.com.squareup.picasso"
+            android:exported="false" />
     </application>
 
 </manifest>
